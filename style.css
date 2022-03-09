@@ -1,0 +1,53 @@
+body {
+  background-color: white;
+  background-image: url("images/bg-main.jpg");
+  background-size: cover;
+}
+
+.colo {
+  color: #008cff;
+}
+
+.hidden {
+  display: none;
+}
+
+.image {
+  border-radius: 10em;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+  font-weight: bold;
+}
+
+h4 {
+  color: #ff9100;
+  text-align: center;
+  margin: 1rem;
+}
+
+.custom_button {
+  background-color: transparent;
+  color: white;
+}
+
+.custom_card {
+  background-color: transparent;
+  color: white;
+}
+
+.footer {
+  margin: 5em;
+  color: white;
+  text-align: center;
+}
+
+.text_align {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

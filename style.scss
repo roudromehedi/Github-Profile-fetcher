@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(255, 255, 255);
+  background-image: url("images/bg-main.jpg");
+  background-size: cover;
+}
+.color {
+  color: rgb(0, 140, 255);
+}
+.hidden {
+  display: none;
+}
+
+.image {
+  border-radius: 10em;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+  font-weight: bold;
+}
+h4 {
+  color: rgb(255, 145, 0);
+  text-align: center;
+  margin: 1rem;
+}
+.custom_button {
+  background-color: transparent;
+  color: white;
+}
+.custom_card {
+  background-color: transparent;
+  color: white;
+}
+.footer {
+  margin: 5em;
+  color: white;
+  text-align: center;
+}
+.text_align {
+  text-align: center;
+}
